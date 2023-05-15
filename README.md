@@ -1,7 +1,7 @@
 # Todo List App
 
 <img src="TodoList.gif" alt="Cover" style="display:block; margin-left: auto;
-margin-right: auto;width: 45%;"/>
+margin-right: auto;width: 80%;"/>
 
 This is a Todo-List app programmed with HTML/CSS/JavaScript.
 
